@@ -1,7 +1,9 @@
 .choresText {
-   color: black;
+  color: blue;
+  font-size: 1.3vw;
+  text-decoration: underline;
 }
 
 .choresHeading {
-   color: black;
+  color: green;
 }
