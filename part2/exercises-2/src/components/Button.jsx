@@ -1,12 +1,11 @@
-import './styles.css';
+import "./styles.css";
 
 function Button() {
+  const onLearnMore = () => {
+    alert("Woosh!");
+  };
 
-   return ( 
-         <button>
-            Learn More
-         </button>
-   );
+  return <button onClick={onLearnMore}>Learn More</button>;
 }
 
 export default Button;
