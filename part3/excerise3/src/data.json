@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "Resource": "WaniKani",
+      "Type": "Mnumonic flash card system",
+      "photoUrl": "https://www.tofugu.com/images/about/wanikani-screenshot-1300x-5b5e6ca3.jpg",
+      "alt": "WaniKani home page image"
+    },
+    {
+      "Resource": "BunPro",
+      "Type": "Grammar flash card system",
+      "photoUrl": "https://raw.githubusercontent.com/imasaru/bunpro-companion/master/image.png",
+      "alt": "Bunpro home page image"
+    },
+    {
+      "Resource": "NHK Easy",
+      "Type": "Official Japanese news site simplified for learners",
+      "photoUrl": "https://lh4.ggpht.com/STTVls8jnOWmaat-EqBJEPAVB3cu9lRqE43UzucVbEjephUQ9yk9j_Hz5mS0E11ugA=h900",
+      "alt": "NHK Easy home page image"
+    }
+  ]
+}
